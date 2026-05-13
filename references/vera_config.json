@@ -1,0 +1,9 @@
+{
+  "endpoint": "https://vivid-server.vividlog.com/api/v4/workinghours/",
+  "token": "<your_jwt_token>",
+  "projectId": "<your_project_id>",
+  "userId": "<your_user_id>",
+  "timeslot": 8,
+  "source": "pc",
+  "type": "STANDARD"
+}
